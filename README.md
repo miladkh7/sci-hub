@@ -4,6 +4,14 @@
 
 If you believe in open access to scientific papers, please donate to Sci-Hub.
 
+**Note**: A known limitation of scihub.py is that captchas show up every now and then, blocking any searches or downloads.
+
+Setup
+-----
+```
+pip install -r requirements.txt
+```
+
 Contributing to Esri Open Source Projects
 =========================================
 
